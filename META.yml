@@ -1,9 +1,9 @@
 --- #YAML:1.0
 name:                PITA-Test-Dummy-Perl5-Deps
-version:             1.01
+version:             1.02
 abstract:            CPAN Test Dummy for PITA Makefile.PL installs
 license:             ~
-generated_by:        ExtUtils::MakeMaker version 6.31
+generated_by:        ExtUtils::MakeMaker version 6.32
 distribution_type:   module
 requires:     
     PITA::Test::Dummy::Perl5::Build: 1.01
